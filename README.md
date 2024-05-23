@@ -9,6 +9,11 @@ Desenvolvido fase inicial do aplicativo e lógica por tras da tomada de decisõe
 Ultilizado o comando Switch para verificar as decisões de jogo do usuário, bem como o comando IF
 para valiar se ovalor digitado pelo usuário é igual ao valor "pensando".
 
+# 23/05/2024
+
+Desenvolvendo sistema de aleatorização de resposta utilizando o Math.random();
+
+
 # Proximos features
 
 Geração de respostas aleatória
